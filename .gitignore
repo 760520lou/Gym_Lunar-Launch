@@ -15,7 +15,11 @@ env/
 *.pth
 videos/
 *.mp4
-training_history.png
+!ep500.mp4
+!ep1000.mp4
+!ep2000.mp4
+!videos/*.mp4
+!training_history.png
 
 # Jupyter
 .ipynb_checkpoints/
