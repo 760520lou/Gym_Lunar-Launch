@@ -7,16 +7,16 @@ This project trains a Deep Q-Network (DQN) agent to play the LunarLander environ
 The repository homepage displays the trained agent's behavior at different training stages.
 
 ### Episode 500
-![Episode 500 demo](https://raw.githubusercontent.com/760520lou/Gym_Lunar-Launch/main/ep500.gif)
-This GIF shows the agent's behavior after 500 training episodes.
+![Episode 500 demo](./ep500.mp4)
+This video shows the agent's behavior after 500 training episodes.
 
 ### Episode 1000
-![Episode 1000 demo](https://raw.githubusercontent.com/760520lou/Gym_Lunar-Launch/main/ep1000.gif)
-This GIF shows the agent's behavior after 1000 training episodes.
+![Episode 1000 demo](./ep1000.mp4)
+This video shows the agent's behavior after 1000 training episodes.
 
 ### Episode 2000
-![Episode 2000 demo](https://raw.githubusercontent.com/760520lou/Gym_Lunar-Launch/main/ep2000.gif)
-This GIF shows the agent's behavior after 2000 training episodes.
+![Episode 2000 demo](./ep2000.mp4)
+This video shows the agent's behavior after 2000 training episodes.
 
 ### Training History
 ![Training reward curve](./training_history.png)
