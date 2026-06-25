@@ -1,0 +1,5 @@
+numpy
+matplotlib
+opencv-python
+gym[box2d]==0.26.2
+tensorflow>=2.13
