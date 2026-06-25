@@ -12,17 +12,17 @@ The following animations show how the agent behaves at different stages of train
 
 ### Episode 500
 <p align="center">
-  <img src="./ep500.gif" alt="Episode 500 demo" width="70%" />
+  <img src="https://raw.githubusercontent.com/760520lou/Gym_Lunar-Launch/main/ep500.gif" alt="Episode 500 demo" width="70%" />
 </p>
 
 ### Episode 1000
 <p align="center">
-  <img src="./ep1000.gif" alt="Episode 1000 demo" width="70%" />
+  <img src="https://raw.githubusercontent.com/760520lou/Gym_Lunar-Launch/main/ep1000.gif" alt="Episode 1000 demo" width="70%" />
 </p>
 
 ### Episode 2000
 <p align="center">
-  <img src="./ep2000.gif" alt="Episode 2000 demo" width="70%" />
+  <img src="https://raw.githubusercontent.com/760520lou/Gym_Lunar-Launch/main/ep2000.gif" alt="Episode 2000 demo" width="70%" />
 </p>
 
 ### Training History
